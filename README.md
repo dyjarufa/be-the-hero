@@ -27,7 +27,7 @@ Este projeto foi desenvolvido durante a semana Omnistack com as seguintes tecnol
 
 ### :muscle: Projeto
 
-<b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter. 
+<b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter. Realizando o cadastro de suas ocorrências a instituição informa os detalhes e o valor. O usuário disposto a ajudar pode entrar em contato com a intituição através do Whatsapp ou E-mail.
 
 ### 🦸‍♂️ Qual a importância de ajudar uma ONG? <br>
 As organizações não governamentais <b>(ONGs)</b> são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: <b>direitos humanos</b>, <b>direitos animais</b>, <b>direitos indígenas</b>, <b>gênero</b>, <b>luta contra o racismo</b>, <b>meio ambiente</b>, <b>questões urbanas</b>, <b>imigrantes</b>, entre muitos outros.
